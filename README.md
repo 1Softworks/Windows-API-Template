@@ -1,7 +1,7 @@
 # Windows-API-Template
 This is a simple game hacking template using the Windows API
 
-## Methods information and usages
+## Methods Info / Usage
 
 <table>
 <thead>
